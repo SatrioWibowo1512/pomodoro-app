@@ -22,7 +22,7 @@ Tampilan langsung aplikasi saat digunakan.
 
 | Work Mode (Timer Berjalan) | Break Mode |
 | :---: | :---: |
-| ![Screen showing Work Mode Timer](work.png) | ![Screen showing Break Mode Timer](break.png) |
+| ![Screen showing Work Mode Timer](work.jpg) | ![Screen showing Break Mode Timer](break.jpg) |
 
 ---
 
