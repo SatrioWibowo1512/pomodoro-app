@@ -28,6 +28,6 @@ Tampilan langsung aplikasi saat digunakan.
 
 ### Teknologi yang Digunakan
 
-*   **Editor Kode:** Spck Editor / Acode (Android)
+*   **Editor Kode:** Spck Editor (Android)
 *   **Version Control:** Git & GitHub (mobile)
 *   **Bahasa:** Vanilla HTML, CSS, & JavaScript
