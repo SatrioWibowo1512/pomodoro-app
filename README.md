@@ -22,9 +22,7 @@ Tampilan langsung aplikasi saat digunakan.
 
 | Work Mode (Timer Berjalan) | Break Mode |
 | :---: | :---: |
-| ![Screen showing Work Mode Timer](path/ke/screenshot_kamu_1.png) | ![Screen showing Break Mode Timer](path/ke/screenshot_kamu_2.png) |
-
-*(Catatan: Ganti `path/ke/screenshot_kamu_1.png` dan `path/ke/screenshot_kamu_2.png` dengan path file gambar kamu setelah diunggah ke GitHub).*
+| ![Screen showing Work Mode Timer](work.png) | ![Screen showing Break Mode Timer](break.png) |
 
 ---
 
